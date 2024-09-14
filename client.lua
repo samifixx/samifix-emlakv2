@@ -14,7 +14,7 @@ RegisterNetEvent('samifix-emlakv2:client:SetupJobLocations', function()
                         type = "client",
                         event = "samifix-emlakv2:client:StartMoneyWash",
                         icon = "fas fa-money-check",
-                        label = "Kara Para Bozdurma",
+                        label = "Emlak Menü",
                         job = job 
                     }
                 },
