@@ -1,3 +1,3 @@
-Fivem gelişmiş emlak scripti
+# Fivem gelişmiş emlak scripti
 
 Config üzerinden full ayarlanabilir.
