@@ -3,7 +3,7 @@ Config = {}
 -- Kara paranın nakite dönüş oranı (yüzdelik)
 Config.MoneyWashRate = 70 
 
--- Kara para değişimi için minimum kara para miktarı
+-- Kara para dönüştürmek için minimum kara para miktarı
 Config.MinDirtyMoney = 1000 
 
 -- Kara para eşyasının adı
